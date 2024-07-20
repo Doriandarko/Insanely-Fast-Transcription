@@ -1,0 +1,5 @@
+yt-dlp
+torch
+transformers
+optimum
+accelerate
