@@ -19,7 +19,7 @@ This tool provides an easy-to-use interface for transcribing audio from YouTube 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/insanely-fast-whisper-tool.git
+   git clone https://github.com/doriandarko/insanely-fast-whisper-tool.git
    cd insanely-fast-whisper-tool
    ```
 
