@@ -74,10 +74,6 @@ If you encounter any issues, please ensure that:
 
 For Mac users, if you face memory issues, try reducing the batch size further.
 
-## License
-
-[Your chosen license]
-
 ## Acknowledgements
 
 This tool uses the Insanely Fast Whisper project, which is powered by 🤗 Transformers, Optimum & flash-attn. Special thanks to the OpenAI Whisper team and the Hugging Face Transformers team.
